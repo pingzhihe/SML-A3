@@ -14,7 +14,8 @@ This is a assignment for unimelb COMP90051-SML, aims to analyse and predict outc
 - `data_pull.ipynb`: A Jupyter Notebook that involves all commands to download data from Kaggle.
 - `Logistic_regression.ipynb`: A Jupyter Notebook file that contains the complete code for data preprocessing, feature engineering, model training, and evaluation for Logistic Regression model.
 - `resnet50.ipynb`: A Jupyter Notebook file that contains the complete code for image processing and argumentation, model training, and evaluation for ResNet-50 model.
-- 
+- `image_processing.ipynb` a jupyter notebook that shows different image preprocessing, argumentation, and feature extraction methods
+- `Ensemble-models` : a jupyter notebook with ensemble models for data processing, training, and visualization of model performance metrics. 
 
 ## Installation and How to run the code
 - Install the required Python libraries: 
